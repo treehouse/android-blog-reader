@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Config2"
+        activity="com.teamtreehouse.blogreader.MainListActivity"
+        config="layout-sw320dp-w320dp-h480dp-normal-long-port-notnight-hdpi-finger-keyssoft-nokeys-navhidden-trackball-720x480-v17"
+        device="Nexus One"
+        devicestate="Portrait"
+        target="Android 4.2"
+        theme="@style/AppTheme" >
+    </preview>
+    <preview
+        name="Galaxy Nexus"
+        activity="com.teamtreehouse.blogreader.MainListActivity"
+        config="layout-sw360dp-w360dp-h640dp-normal-long-port-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x720-v17"
+        device="Galaxy Nexus"
+        devicestate="Portrait"
+        target="Android 4.2"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>
