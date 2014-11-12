@@ -1,4 +1,4 @@
-android-blog-reader
-===================
+Treehouse Blog Reader (Android)
+=============================
 
-Project files for the Build a Simple Android App course
+These are the full project files for the Blog Reader app used in Treehouse's Build a Blog Reader App course.
